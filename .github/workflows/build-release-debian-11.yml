@@ -1,5 +1,5 @@
 name: release-onlyoffice
-
+ 
 on:
   push:
     tags:
